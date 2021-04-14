@@ -1,0 +1,26 @@
+#item-1 { background-color: blue; }
+#item-2 { background-color: red; }
+#item-3 { background-color: greenyellow; }
+#item-4 { background-color: blueviolet; }
+#item-5 { background-color: limegreen}
+#item-6 { background-color: darkorange}
+#item-7 { background-color: darkgreen}
+#item-8 { background-color: dimgray}
+#item-9 { background-color: rgb(121, 9, 121) }
+
+
+
+.item {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 15%;
+  
+}.content {
+  height: 100vh;
+  background-color: yellow;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+}
